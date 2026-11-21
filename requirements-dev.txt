@@ -1,0 +1,2 @@
+# Solo para medir cobertura (opcional). La aplicación no tiene dependencias externas.
+coverage>=7
